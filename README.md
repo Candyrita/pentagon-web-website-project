@@ -32,3 +32,14 @@ Improved website usability, search visibility, and overall user engagement.
 
 ## Live Website
 (https://pentagonweb.iotconnect.co.ke/)
+
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Services Page
+![Services Page](screenshots/services-page.png)
+
+### Mobile View
+![Mobile View](screenshots/mobile-view.png)
